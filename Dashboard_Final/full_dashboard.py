@@ -12,7 +12,8 @@ import os
 import plotly.graph_objects as go
 
 # Add the SACRD root directory to the Python path
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+APP_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(os.path.abspath(os.path.join(APP_DIR, '..')))
 from Cleaning_Processing.GetGapScore import gap_scores_with_time, avg_gap_scores
 from Cleaning_Processing.CleaningPrograms import cleaned_programs
 
@@ -20,7 +21,7 @@ from Cleaning_Processing.CleaningPrograms import cleaned_programs
 st.set_page_config(layout="wide")
 
 # --- Header ---
-with open("../Dashboard_Final/logo.png", "rb") as _logo_file:
+with open(os.path.join(APP_DIR, "logo.png"), "rb") as _logo_file:
     _logo_b64 = base64.b64encode(_logo_file.read()).decode()
 
 st.markdown(
@@ -48,7 +49,7 @@ def load_data():
         .str.strip()
     )
 
-    gdf = gpd.read_file("../Dashboard_Final/simplified.geojson")
+    gdf = gpd.read_file(os.path.join(APP_DIR, "simplified.geojson"))
     return df, gdf
 
 program_df, zip_geo = load_data()

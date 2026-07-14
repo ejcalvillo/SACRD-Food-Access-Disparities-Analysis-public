@@ -55,9 +55,10 @@ pip install -r requirements.txt
 By default, everything (the dashboard and the underlying cleaning/gap-score pipeline) reads from the bundled synthetic dataset at `Data/sample_data/` — no setup required.
 
 ```bash
-cd Dashboard_Final
-streamlit run full_dashboard.py
+streamlit run Dashboard_Final/full_dashboard.py
 ```
+
+This also works run from inside `Dashboard_Final/` (`cd Dashboard_Final && streamlit run full_dashboard.py`), and either way from a Streamlit Community Cloud deployment — set the app's main file path to `Dashboard_Final/full_dashboard.py`.
 
 If you have your own dataset in the same schema, point the pipeline at it instead of the sample data:
 
