@@ -5,8 +5,7 @@ This project analyzes **food-related program access and demand in San Antonio**,
 The analysis includes data cleaning/aggregation scripts, exploratory clustering notebooks, and an interactive Streamlit dashboard for exploring program access, demand, and community need by ZIP code.
 
 This project was built during a data science internship with **H-E-B's Community Innovation Scholars Program**, in partnership with SACRD.
-
----
+### [Live demo →](https://sacrd-food-access-analysis-public.streamlit.app/)
 
 ## A note on the data
 
