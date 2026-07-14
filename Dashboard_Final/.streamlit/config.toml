@@ -1,0 +1,18 @@
+[theme]
+# This will respect the user’s system preference (auto switch between light/dark)
+base="light"
+
+primaryColor="#FF4B4B"
+font="sans serif"
+
+# Dark mode colors
+[theme.dark]
+backgroundColor="#0e1117"
+secondaryBackgroundColor="#262730"
+textColor="#FFFFFF"
+
+# Light mode colors
+[theme.light]
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F5F5F5"
+textColor="#000000"

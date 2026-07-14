@@ -1,0 +1,71 @@
+URL,Search,Entity type,Entity ID,Method,Event count,Event count
+https://sacrd.org/directory/search?s=nutrition+class&zipcode=78207,nutrition class,program,1000,email,5,5
+https://sacrd.org/directory/search?s=despensa&zipcode=78214,despensa,program,1072,phone,1,1
+https://sacrd.org/directory/search?s=grocery+help&zipcode=78218,grocery help,program,1048,phone,3,3
+https://sacrd.org/directory/subcategory/food-pantry?zipcode=78207,,prog,1050,phone,2,2
+https://sacrd.org/directory/search?s=food+delivery&zipcode=78207,food delivery,prog,1028,click,5,5
+https://sacrd.org/directory/search?s=dental+clinic&zipcode=78214,dental clinic,org,6,phone,2,2
+https://sacrd.org/directory/subcategory/affordable-fresh-food?zipcode=78211,,program,1010,see-more,2,2
+https://sacrd.org/directory/organization?zipcode=78202,,org,15,-,1,1
+https://sacrd.org/directory/subcategory/help-pay-for-food?zipcode=78205,,program,1065,see-more,2,2
+https://sacrd.org/directory/subcategory/transportation-assistance?zipcode=78228,,prog,1102,phone,2,2
+https://sacrd.org/directory/search?s=counseling&zipcode=78211,counseling,iframe,33,phone,1,1
+https://sacrd.org/directory/subcategory/food-pantry?zipcode=78207,,program,1022,-,2,2
+https://sacrd.org/embed/widget?zipcode=78201,,iframe,25,website,1,1
+https://sacrd.org/directory/organization?zipcode=78228,,prog,1084,phone,1,1
+https://sacrd.org/directory/subcategory/food-delivery?zipcode=78237,,program,1092,email,1,1
+https://sacrd.org/embed/widget?zipcode=78201,,iframe,8,website,5,5
+https://sacrd.org/directory/subcategory/senior-programs?zipcode=78214,,program,1094,see-more,1,1
+https://sacrd.org/directory/organization?zipcode=78211,,program,1062,phone,2,2
+https://sacrd.org/directory/organization?zipcode=78237,,program,1094,phone,1,1
+https://sacrd.org/embed/widget?zipcode=78228,,iframe,40,website,1,1
+https://sacrd.org/directory/subcategory/youth-programs?zipcode=78201,,prog,1059,-,3,3
+https://sacrd.org/directory/organization?zipcode=78237,,program,1054,-,2,2
+https://sacrd.org/directory/search?s=comida&zipcode=78205,comida,program,1012,-,1,1
+https://sacrd.org/directory/organization?zipcode=78201,,program,1111,phone,1,1
+https://sacrd.org/directory/subcategory/nutrition-education?zipcode=78214,,prog,1048,-,3,3
+https://sacrd.org/directory/subcategory/food-delivery?zipcode=78202,,prog,1083,website,1,1
+https://sacrd.org/directory/subcategory/food-delivery?zipcode=78207,,program,1083,-,3,3
+https://sacrd.org/directory/organization?zipcode=78218,,program,1045,click,2,2
+https://sacrd.org/directory/search?s=despensa&zipcode=78202,despensa,org,9,website,1,1
+https://sacrd.org/directory/subcategory/affordable-fresh-food?zipcode=78218,,program,1010,website,1,1
+https://sacrd.org/directory/subcategory/nutrition-education?zipcode=78218,,program,1039,email,1,1
+https://sacrd.org/directory/search?s=housing+help&zipcode=78201,housing help,prog,1028,phone,1,1
+https://sacrd.org/directory/organization?zipcode=78237,,program,1098,see-more,2,2
+https://sacrd.org/directory/subcategory/free-meals?zipcode=78218,,program,1035,website,3,3
+https://sacrd.org/directory/subcategory/community-garden?zipcode=78211,,program,1008,website,3,3
+https://sacrd.org/directory/search?s=nutrition+class&zipcode=78237,nutrition class,program,1030,-,1,1
+https://sacrd.org/directory/subcategory/emergency-food?zipcode=78207,,program,1071,click,1,1
+https://sacrd.org/directory/search?s=food+pantry&zipcode=78203,food pantry,program,1035,see-more,2,2
+https://sacrd.org/directory/subcategory/childcare?zipcode=78201,,program,1040,phone,5,5
+https://sacrd.org/directory/subcategory/food-pantry?zipcode=78237,,prog,1022,email,5,5
+https://sacrd.org/directory/subcategory/emergency-food?zipcode=78218,,prog,1090,click,2,2
+https://sacrd.org/directory/organization?zipcode=78210,,program,1063,phone,1,1
+https://sacrd.org/directory/subcategory/mental-healthcare?zipcode=78202,,program,1056,-,2,2
+https://sacrd.org/directory/subcategory/food-delivery?zipcode=78210,,prog,1092,website,5,5
+https://sacrd.org/directory/subcategory/community-garden?zipcode=78203,,program,1105,email,1,1
+https://sacrd.org/directory/organization?zipcode=78237,,org,2,see-more,1,1
+https://sacrd.org/directory/subcategory/nutrition-education?zipcode=78218,,program,1089,-,2,2
+https://sacrd.org/directory/search?s=food+delivery&zipcode=78205,food delivery,org,6,website,1,1
+https://sacrd.org/directory/organization?zipcode=78205,,program,1020,see-more,1,1
+https://sacrd.org/directory/subcategory/affordable-fresh-food?zipcode=78201,,program,1081,website,3,3
+https://sacrd.org/directory/search?s=free+meals&zipcode=78202,free meals,org,11,website,1,1
+https://sacrd.org/directory/organization?zipcode=78218,,org,7,-,2,2
+https://sacrd.org/directory/search?s=comida&zipcode=78203,comida,prog,1017,website,2,2
+https://sacrd.org/directory/organization?zipcode=78202,,program,1110,see-more,1,1
+https://sacrd.org/directory/subcategory/senior-programs?zipcode=78210,,program,1017,website,3,3
+https://sacrd.org/directory/organization?zipcode=78205,,program,1064,email,1,1
+https://sacrd.org/directory/organization?zipcode=78201,,org,11,click,5,5
+https://sacrd.org/directory/subcategory/childcare?zipcode=78214,,program,1021,email,1,1
+https://sacrd.org/embed/widget?zipcode=78202,,iframe,11,-,1,1
+https://sacrd.org/directory/organization?zipcode=78218,,program,1058,click,3,3
+https://sacrd.org/directory/organization?zipcode=78205,,org,14,website,3,3
+https://sacrd.org/directory/subcategory/counseling?zipcode=78211,,program,1076,see-more,2,2
+https://sacrd.org/directory/search?s=job+training&zipcode=78211,job training,program,1003,phone,5,5
+https://sacrd.org/directory/search?s=despensa&zipcode=78210,despensa,prog,1010,see-more,1,1
+https://sacrd.org/directory/organization?zipcode=78205,,org,12,email,1,1
+https://sacrd.org/directory/subcategory/free-meals?zipcode=78202,,prog,1035,email,5,5
+https://sacrd.org/directory/search?s=comida&zipcode=78228,comida,org,14,email,2,2
+https://sacrd.org/embed/widget?zipcode=78207,,iframe,43,email,1,1
+https://sacrd.org/directory/search?s=despensa&zipcode=78203,despensa,program,1053,see-more,2,2
+https://sacrd.org/directory/subcategory/childcare?zipcode=78203,,program,1021,website,3,3

@@ -1,0 +1,120 @@
+id|name|org|service_address|subcats|inactive|zipcode|lat|lng|org_id
+1000|Riverside Community Table Home Delivery Program|Riverside Community Table|12166 Culebra Rd, San Antonio, TX, 78201|Food Delivery, Help Pay for Food|False|78201|29.4793436|-98.5277612|1
+1001|Riverside Community Table Food Pantry|Riverside Community Table|1635 Blanco Rd, San Antonio, TX, 78214|Food Pantry|False|78214|29.3710404|-98.4957751|1
+1002|Riverside Community Table Home Delivery Program|Riverside Community Table|4657 Rigsby Ave, San Antonio, TX, 78228|Food Delivery, Affordable Fresh Food, Counseling|False|78228|29.4661761|-98.5748068|1
+1003|Riverside Community Table Food Pantry|Riverside Community Table|3627 Rigsby Ave, San Antonio, TX, 78214|Food Pantry, Help Pay for Food|False|78214|29.3608549|-98.5050657|1
+1004|Riverside Community Table Mental Health Services|Riverside Community Table|12055 Fredericksburg Rd, San Antonio, TX, 78211|Mental Healthcare, Emergency Food|False|78211|29.3764623|-98.5564293|1
+1005|Eastside Neighbors Pantry Counseling Center|Eastside Neighbors Pantry|11643 Culebra Rd, San Antonio, TX, 78210|Counseling, Affordable Fresh Food|False|78210|29.403558|-98.4602122|2
+1006|Eastside Neighbors Pantry Nutrition Workshops|Eastside Neighbors Pantry|6327 Military Dr W, San Antonio, TX, 78202|Nutrition Education|False|78202|29.4391822|-98.4792469|2
+1007|Eastside Neighbors Pantry Transportation Assistance|Eastside Neighbors Pantry|4474 Roosevelt Ave, San Antonio, TX, 78211|Transportation Assistance|True|78211|29.3699607|-98.5518174|2
+1008|Eastside Neighbors Pantry Community Garden|Eastside Neighbors Pantry|7673 Nogalitos St, San Antonio, TX, 78203|Community Garden|False|78203|29.4265078|-98.4592368|2
+1009|Eastside Neighbors Pantry Job Training Program|Eastside Neighbors Pantry|3852 Ingram Rd, San Antonio, TX, 78207|Job Training, Emergency Food|False|78207|29.4233091|-98.5286452|2
+1010|Eastside Neighbors Pantry Fresh Food Market|Eastside Neighbors Pantry|8279 Nogalitos St, San Antonio, TX, 78207|Affordable Fresh Food, Youth Programs|True|78207|29.429857|-98.5311426|2
+1011|Eastside Neighbors Pantry Financial Literacy Program|Eastside Neighbors Pantry|9297 New Braunfels Ave, San Antonio, TX, 78203|Financial Education|False|78203|29.4196917|-98.4550435|2
+1012|Eastside Neighbors Pantry Home Delivery Program|Eastside Neighbors Pantry|8448 Fredericksburg Rd, San Antonio, TX, 78214|Food Delivery, Help Pay for Food|False|78214|29.3599423|-98.504807|2
+1013|Eastside Neighbors Pantry Senior Services|Eastside Neighbors Pantry|6352 Pleasanton Rd, San Antonio, TX, 78203|Senior Programs, Free Meals, Help Pay for Food|True|78203|29.4185823|-98.4535784|2
+1014|Eastside Neighbors Pantry Transportation Assistance|Eastside Neighbors Pantry|14596 New Braunfels Ave, San Antonio, TX, 78201|Transportation Assistance|False|78201|29.476872|-98.5226965|2
+1015|Eastside Neighbors Pantry Community Garden|Eastside Neighbors Pantry|11930 Marbach Rd, San Antonio, TX, 78210|Community Garden, Affordable Fresh Food, Food Pantry|False|78210|29.4184378|-98.4507608|2
+1016|Eastside Neighbors Pantry Youth Program|Eastside Neighbors Pantry|4989 Ingram Rd, San Antonio, TX, 78228|Youth Programs|False|78228|29.4631794|-98.5749432|2
+1017|Alamo Harvest Alliance Senior Services|Alamo Harvest Alliance|5410 Fredericksburg Rd, San Antonio, TX, 78228|Senior Programs|False|78228|29.469582|-98.5604256|3
+1018|Alamo Harvest Alliance Emergency Food Program|Alamo Harvest Alliance|4046 Marbach Rd, San Antonio, TX, 78210|Emergency Food|False|78210|29.4005751|-98.4513618|3
+1019|Alamo Harvest Alliance Food Assistance Fund|Alamo Harvest Alliance|10909 Fredericksburg Rd, San Antonio, TX, 78202|Help Pay for Food|True|78202|29.4258025|-98.4719465|3
+1020|Alamo Harvest Alliance Fresh Food Market|Alamo Harvest Alliance|12059 Roosevelt Ave, San Antonio, TX, 78237|Affordable Fresh Food, Clothing, Job Training|False|78237|29.4092343|-98.566097|3
+1021|Alamo Harvest Alliance Childcare Services|Alamo Harvest Alliance|4161 Blanco Rd, San Antonio, TX, 78211|Childcare, Affordable Fresh Food, Nutrition Education|False|78211|29.3574207|-98.5529216|3
+1022|Alamo Harvest Alliance Food Pantry|Alamo Harvest Alliance|1263 Roosevelt Ave, San Antonio, TX, 78237|Food Pantry|False|78237|29.4075788|-98.5678916|3
+1023|Westside Family Resource Center Food Pantry|Westside Family Resource Center|11060 Fredericksburg Rd, San Antonio, TX, 78202|Food Pantry|False|78202|29.4251462|-98.4637897|4
+1024|Westside Family Resource Center Home Delivery Program|Westside Family Resource Center|13330 Nogalitos St, San Antonio, TX, 78237|Food Delivery, Mental Healthcare|False|78237|29.4049386|-98.577379|4
+1025|Westside Family Resource Center Fresh Food Market|Westside Family Resource Center|11132 Bandera Rd, San Antonio, TX, 78214|Affordable Fresh Food, Financial Education, Emergency Food|True|78214|29.3609684|-98.4989476|4
+1026|Westside Family Resource Center Home Delivery Program|Westside Family Resource Center|3239 Blanco Rd, San Antonio, TX, 78211|Food Delivery|False|78211|29.3598036|-98.5603302|4
+1027|Westside Family Resource Center Community Meals|Westside Family Resource Center|7360 Rigsby Ave, San Antonio, TX, 78218|Free Meals|False|78218|29.4840065|-98.4249882|4
+1028|Westside Family Resource Center Community Meals|Westside Family Resource Center|12446 Ingram Rd, San Antonio, TX, 78228|Free Meals|False|78228|29.4591283|-98.5683728|4
+1029|Westside Family Resource Center Community Garden|Westside Family Resource Center|6309 Broadway St, San Antonio, TX, 78214|Community Garden|True|78214|29.3643041|-98.4913186|4
+1030|Westside Family Resource Center Community Garden|Westside Family Resource Center|12068 Rigsby Ave, San Antonio, TX, 78218|Community Garden, Dental Care|False|78218|29.4873682|-98.4229041|4
+1031|Westside Family Resource Center Emergency Food Program|Westside Family Resource Center|9589 Roosevelt Ave, San Antonio, TX, 78210|Emergency Food|False|78210|29.4139595|-98.4648567|4
+1032|Mission Trail Food Collective Emergency Food Program|Mission Trail Food Collective|8420 Culebra Rd, San Antonio, TX, 78228|Emergency Food|False|78228|29.4523704|-98.5766408|5
+1033|Mission Trail Food Collective Nutrition Workshops|Mission Trail Food Collective|9585 Pleasanton Rd, San Antonio, TX, 78207|Nutrition Education, Counseling, Food Delivery|False|78207|29.4186397|-98.5208525|5
+1034|Mission Trail Food Collective Food Pantry|Mission Trail Food Collective|11072 Roosevelt Ave, San Antonio, TX, 78237|Food Pantry, Affordable Fresh Food|False|78237|29.4083123|-98.5833824|5
+1035|Mission Trail Food Collective Community Meals|Mission Trail Food Collective|252 Fredericksburg Rd, San Antonio, TX, 78210|Free Meals, Job Training|False|78210|29.4102599|-98.4640004|5
+1036|Mission Trail Food Collective Childcare Services|Mission Trail Food Collective|4445 Zarzamora St, San Antonio, TX, 78228|Childcare|True|78228|29.4686173|-98.5604146|5
+1037|Mission Trail Food Collective Community Garden|Mission Trail Food Collective|13760 New Braunfels Ave, San Antonio, TX, 78211|Community Garden, Affordable Fresh Food|False|78211|29.3692336|-98.5442553|5
+1038|Mission Trail Food Collective Transportation Assistance|Mission Trail Food Collective|13487 New Braunfels Ave, San Antonio, TX, 78228|Transportation Assistance|False|78228|29.4642678|-98.5592214|5
+1039|Mission Trail Food Collective Nutrition Workshops|Mission Trail Food Collective|9164 Zarzamora St, San Antonio, TX, 78203|Nutrition Education, Financial Education|False|78203|29.4200966|-98.4586478|5
+1040|Mission Trail Food Collective Childcare Services|Mission Trail Food Collective|4214 Marbach Rd, San Antonio, TX, 78207|Childcare, Food Delivery|True|78207|29.418016|-98.5213143|5
+1041|Mission Trail Food Collective Food Pantry|Mission Trail Food Collective|5564 Rigsby Ave, San Antonio, TX, 78210|Food Pantry|False|78210|29.418596|-98.4627684|5
+1042|Mission Trail Food Collective Clothing Closet|Mission Trail Food Collective|1332 Marbach Rd, San Antonio, TX, 78218|Clothing, Food Pantry, Nutrition Education|False|78218|29.4759811|-98.4252794|5
+1043|Northside Helping Hands Community Garden|Northside Helping Hands|2188 Broadway St, San Antonio, TX, 78237|Community Garden|False|78237|29.4209796|-98.5700776|6
+1044|Northside Helping Hands Fresh Food Market|Northside Helping Hands|4188 Bandera Rd, San Antonio, TX, 78201|Affordable Fresh Food, Transportation Assistance|False|78201|29.4771023|-98.5118173|6
+1045|Northside Helping Hands Home Delivery Program|Northside Helping Hands|14265 Zarzamora St, San Antonio, TX, 78214|Food Delivery|True|78214|29.3752154|-98.4893717|6
+1046|Northside Helping Hands Financial Literacy Program|Northside Helping Hands|5542 Rigsby Ave, San Antonio, TX, 78201|Financial Education|True|78201|29.4775447|-98.5122187|6
+1047|Northside Helping Hands Community Garden|Northside Helping Hands|11589 Culebra Rd, San Antonio, TX, 78207|Community Garden, Mental Healthcare|False|78207|29.4177745|-98.5245862|6
+1048|Northside Helping Hands Nutrition Workshops|Northside Helping Hands|14375 Blanco Rd, San Antonio, TX, 78207|Nutrition Education, Emergency Food, Mental Healthcare|False|78207|29.4302007|-98.5260307|6
+1049|Northside Helping Hands Job Training Program|Northside Helping Hands|4673 Commerce St, San Antonio, TX, 78210|Job Training|False|78210|29.4069936|-98.446377|6
+1050|Northside Helping Hands Food Pantry|Northside Helping Hands|14469 Military Dr W, San Antonio, TX, 78228|Food Pantry, Nutrition Education|False|78228|29.4702507|-98.5726907|6
+1051|Northside Helping Hands Nutrition Workshops|Northside Helping Hands|5239 Nogalitos St, San Antonio, TX, 78202|Nutrition Education, Financial Education, Mental Healthcare|False|78202|29.4327285|-98.4747961|6
+1052|San Pedro Springs Outreach Dental Clinic|San Pedro Springs Outreach|7244 Broadway St, San Antonio, TX, 78210|Dental Care|False|78210|29.4151302|-98.4522629|7
+1053|San Pedro Springs Outreach Community Garden|San Pedro Springs Outreach|10982 Marbach Rd, San Antonio, TX, 78207|Community Garden, Free Meals|False|78207|29.4232783|-98.5170397|7
+1054|San Pedro Springs Outreach Transportation Assistance|San Pedro Springs Outreach|5444 Nogalitos St, San Antonio, TX, 78210|Transportation Assistance, Community Garden|False|78210|29.4100882|-98.4621632|7
+1055|San Pedro Springs Outreach Senior Services|San Pedro Springs Outreach|9424 Military Dr W, San Antonio, TX, 78214|Senior Programs|False|78214|29.3756745|-98.5009225|7
+1056|San Pedro Springs Outreach Mental Health Services|San Pedro Springs Outreach|10826 Commerce St, San Antonio, TX, 78207|Mental Healthcare, Counseling, Senior Programs|False|78207|29.4258432|-98.529726|7
+1057|San Pedro Springs Outreach Transportation Assistance|San Pedro Springs Outreach|1489 Military Dr W, San Antonio, TX, 78218|Transportation Assistance|False|78218|29.4856588|-98.4192962|7
+1058|San Pedro Springs Outreach Home Delivery Program|San Pedro Springs Outreach|3362 Zarzamora St, San Antonio, TX, 78207|Food Delivery, Mental Healthcare|False|78207|29.4218969|-98.5244973|7
+1059|Southtown Mutual Aid Youth Program|Southtown Mutual Aid|11869 Roosevelt Ave, San Antonio, TX, 78218|Youth Programs, Counseling, Affordable Fresh Food|False|78218|29.4809931|-98.4230486|8
+1060|Southtown Mutual Aid Job Training Program|Southtown Mutual Aid|7065 Blanco Rd, San Antonio, TX, 78201|Job Training|False|78201|29.4806593|-98.5191408|8
+1061|Southtown Mutual Aid Nutrition Workshops|Southtown Mutual Aid|7578 Zarzamora St, San Antonio, TX, 78201|Nutrition Education|False|78201|29.4748516|-98.5097422|8
+1062|Southtown Mutual Aid Job Training Program|Southtown Mutual Aid|10137 Ingram Rd, San Antonio, TX, 78237|Job Training, Affordable Fresh Food|False|78237|29.4130956|-98.5693886|8
+1063|Southtown Mutual Aid Community Garden|Southtown Mutual Aid|7473 Military Dr W, San Antonio, TX, 78228|Community Garden, Financial Education, Food Delivery|False|78228|29.4677973|-98.5724538|8
+1064|Brooks City Base Cares Food Pantry|Brooks City Base Cares|7306 Culebra Rd, San Antonio, TX, 78218|Food Pantry|False|78218|29.4776899|-98.419283|9
+1065|Brooks City Base Cares Food Assistance Fund|Brooks City Base Cares|2571 Blanco Rd, San Antonio, TX, 78228|Help Pay for Food|False|78228|29.4540561|-98.5737209|9
+1066|Brooks City Base Cares Community Meals|Brooks City Base Cares|6912 Broadway St, San Antonio, TX, 78214|Free Meals, Clothing, Affordable Fresh Food|False|78214|29.3674029|-98.4889032|9
+1067|Brooks City Base Cares Job Training Program|Brooks City Base Cares|9532 Nogalitos St, San Antonio, TX, 78237|Job Training|False|78237|29.4218548|-98.5800277|9
+1068|Brooks City Base Cares Clothing Closet|Brooks City Base Cares|9983 Marbach Rd, San Antonio, TX, 78214|Clothing, Financial Education, Mental Healthcare|False|78214|29.3633884|-98.4982833|9
+1069|Brooks City Base Cares Community Meals|Brooks City Base Cares|6724 Roosevelt Ave, San Antonio, TX, 78201|Free Meals, Transportation Assistance, Mental Healthcare|False|78201|29.4708478|-98.5269474|9
+1070|Brooks City Base Cares Food Assistance Fund|Brooks City Base Cares|9797 Pleasanton Rd, San Antonio, TX, 78237|Help Pay for Food|False|78237|29.4046789|-98.5774277|9
+1071|Brooks City Base Cares Emergency Food Program|Brooks City Base Cares|4362 Nogalitos St, San Antonio, TX, 78218|Emergency Food|False|78218|29.482094|-98.41925|9
+1072|Brooks City Base Cares Job Training Program|Brooks City Base Cares|4233 Ingram Rd, San Antonio, TX, 78214|Job Training, Community Garden|False|78214|29.3593877|-98.4962116|9
+1073|Brooks City Base Cares Youth Program|Brooks City Base Cares|1224 Rigsby Ave, San Antonio, TX, 78211|Youth Programs|True|78211|29.3578052|-98.5633794|9
+1074|Brooks City Base Cares Food Pantry|Brooks City Base Cares|10279 Zarzamora St, San Antonio, TX, 78207|Food Pantry|False|78207|29.4264712|-98.5317122|9
+1075|Brooks City Base Cares Dental Clinic|Brooks City Base Cares|6143 Zarzamora St, San Antonio, TX, 78207|Dental Care, Food Pantry, Job Training|False|78207|29.4362747|-98.5196329|9
+1076|Culebra Road Community Center Counseling Center|Culebra Road Community Center|520 Marbach Rd, San Antonio, TX, 78210|Counseling|False|78210|29.4125469|-98.4468365|10
+1077|Culebra Road Community Center Community Meals|Culebra Road Community Center|9800 Roosevelt Ave, San Antonio, TX, 78214|Free Meals|False|78214|29.363857|-98.4930561|10
+1078|Culebra Road Community Center Mental Health Services|Culebra Road Community Center|9372 Rigsby Ave, San Antonio, TX, 78210|Mental Healthcare|False|78210|29.4096549|-98.4527696|10
+1079|Culebra Road Community Center Food Pantry|Culebra Road Community Center|13573 Fredericksburg Rd, San Antonio, TX, 78202|Food Pantry, Community Garden|False|78202|29.4417158|-98.4697883|10
+1080|Culebra Road Community Center Community Garden|Culebra Road Community Center|2985 Roosevelt Ave, San Antonio, TX, 78218|Community Garden|False|78218|29.4860091|-98.4136818|10
+1081|Culebra Road Community Center Fresh Food Market|Culebra Road Community Center|9807 Military Dr W, San Antonio, TX, 78228|Affordable Fresh Food, Community Garden, Financial Education|False|78228|29.4559099|-98.5593076|10
+1082|Loop 410 Family Services Job Training Program|Loop 410 Family Services|7713 Pleasanton Rd, San Antonio, TX, 78218|Job Training|False|78218|29.4805798|-98.425426|11
+1083|Loop 410 Family Services Home Delivery Program|Loop 410 Family Services|3575 Commerce St, San Antonio, TX, 78211|Food Delivery|False|78211|29.3638068|-98.5463936|11
+1084|Loop 410 Family Services Childcare Services|Loop 410 Family Services|3230 Culebra Rd, San Antonio, TX, 78210|Childcare|False|78210|29.4071286|-98.4548965|11
+1085|Loop 410 Family Services Youth Program|Loop 410 Family Services|7442 Rigsby Ave, San Antonio, TX, 78207|Youth Programs, Dental Care, Food Delivery|False|78207|29.4228847|-98.525912|11
+1086|Loop 410 Family Services Transportation Assistance|Loop 410 Family Services|6146 Fredericksburg Rd, San Antonio, TX, 78207|Transportation Assistance, Counseling|False|78207|29.4238751|-98.5140674|11
+1087|Loop 410 Family Services Nutrition Workshops|Loop 410 Family Services|7534 Military Dr W, San Antonio, TX, 78228|Nutrition Education, Dental Care|False|78228|29.4556108|-98.5635743|11
+1088|Loop 410 Family Services Financial Literacy Program|Loop 410 Family Services|8879 Rigsby Ave, San Antonio, TX, 78211|Financial Education|False|78211|29.3608308|-98.5492279|11
+1089|Loop 410 Family Services Nutrition Workshops|Loop 410 Family Services|4953 Blanco Rd, San Antonio, TX, 78210|Nutrition Education, Affordable Fresh Food|False|78210|29.4050454|-98.4518396|11
+1090|Blanco Basin Neighbors Emergency Food Program|Blanco Basin Neighbors|9166 Military Dr W, San Antonio, TX, 78210|Emergency Food|False|78210|29.4015256|-98.4486308|12
+1091|Blanco Basin Neighbors Food Pantry|Blanco Basin Neighbors|9505 Military Dr W, San Antonio, TX, 78218|Food Pantry|False|78218|29.4818094|-98.4223127|12
+1092|Blanco Basin Neighbors Home Delivery Program|Blanco Basin Neighbors|13569 Culebra Rd, San Antonio, TX, 78201|Food Delivery, Nutrition Education|False|78201|29.4629816|-98.5169111|12
+1093|Blanco Basin Neighbors Food Assistance Fund|Blanco Basin Neighbors|13389 Pleasanton Rd, San Antonio, TX, 78201|Help Pay for Food|True|78201|29.4632036|-98.5245362|12
+1094|Blanco Basin Neighbors Senior Services|Blanco Basin Neighbors|12808 New Braunfels Ave, San Antonio, TX, 78228|Senior Programs, Mental Healthcare, Food Delivery|False|78228|29.4691701|-98.5720529|12
+1095|Blanco Basin Neighbors Emergency Food Program|Blanco Basin Neighbors|1086 Pleasanton Rd, San Antonio, TX, 78237|Emergency Food, Counseling, Senior Programs|True|78237|29.4049847|-98.5707453|12
+1096|Comal Creek Support Network Community Garden|Comal Creek Support Network|4029 Zarzamora St, San Antonio, TX, 78210|Community Garden|False|78210|29.4021307|-98.4578296|13
+1097|Comal Creek Support Network Emergency Food Program|Comal Creek Support Network|4820 Roosevelt Ave, San Antonio, TX, 78237|Emergency Food, Food Delivery|False|78237|29.4201921|-98.5845764|13
+1098|Comal Creek Support Network Mental Health Services|Comal Creek Support Network|9763 Bandera Rd, San Antonio, TX, 78207|Mental Healthcare, Youth Programs|False|78207|29.4209564|-98.5317045|13
+1099|Comal Creek Support Network Food Pantry|Comal Creek Support Network|13643 Zarzamora St, San Antonio, TX, 78207|Food Pantry|False|78207|29.4203185|-98.5278478|13
+1100|Comal Creek Support Network Fresh Food Market|Comal Creek Support Network|7779 Roosevelt Ave, San Antonio, TX, 78237|Affordable Fresh Food, Nutrition Education|False|78237|29.4110502|-98.5805551|13
+1101|Comal Creek Support Network Fresh Food Market|Comal Creek Support Network|753 Marbach Rd, San Antonio, TX, 78228|Affordable Fresh Food, Free Meals, Senior Programs|False|78228|29.4574464|-98.5729926|13
+1102|Comal Creek Support Network Transportation Assistance|Comal Creek Support Network|13796 Ingram Rd, San Antonio, TX, 78202|Transportation Assistance|False|78202|29.4415157|-98.4625086|13
+1103|Palo Alto Community Partners Job Training Program|Palo Alto Community Partners|12490 Zarzamora St, San Antonio, TX, 78237|Job Training|False|78237|29.4160302|-98.5676785|14
+1104|Palo Alto Community Partners Youth Program|Palo Alto Community Partners|7800 Commerce St, San Antonio, TX, 78203|Youth Programs, Food Delivery, Free Meals|False|78203|29.4144212|-98.470908|14
+1105|Palo Alto Community Partners Community Garden|Palo Alto Community Partners|8217 Military Dr W, San Antonio, TX, 78203|Community Garden, Dental Care|False|78203|29.416009|-98.45779|14
+1106|Palo Alto Community Partners Community Meals|Palo Alto Community Partners|5396 Culebra Rd, San Antonio, TX, 78201|Free Meals, Food Pantry|True|78201|29.4695835|-98.5192081|14
+1107|Palo Alto Community Partners Community Garden|Palo Alto Community Partners|8594 Commerce St, San Antonio, TX, 78201|Community Garden, Emergency Food, Affordable Fresh Food|False|78201|29.4714699|-98.5206592|14
+1108|Palo Alto Community Partners Food Pantry|Palo Alto Community Partners|9098 Zarzamora St, San Antonio, TX, 78201|Food Pantry|True|78201|29.4702623|-98.515535|14
+1109|Palo Alto Community Partners Youth Program|Palo Alto Community Partners|10075 Rigsby Ave, San Antonio, TX, 78202|Youth Programs|False|78202|29.4256676|-98.4714832|14
+1110|Palo Alto Community Partners Community Meals|Palo Alto Community Partners|7660 Culebra Rd, San Antonio, TX, 78228|Free Meals, Food Delivery, Nutrition Education|False|78228|29.4540794|-98.5593469|14
+1111|Guadalupe River Relief Community Garden|Guadalupe River Relief|7836 Blanco Rd, San Antonio, TX, 78228|Community Garden, Food Delivery|False|78228|29.4538928|-98.5741878|15
+1112|Guadalupe River Relief Community Meals|Guadalupe River Relief|4626 Rigsby Ave, San Antonio, TX, 78237|Free Meals|False|78237|29.4112988|-98.567315|15
+1113|Guadalupe River Relief Food Pantry|Guadalupe River Relief|11995 Military Dr W, San Antonio, TX, 78228|Food Pantry, Emergency Food|False|78228|29.4625985|-98.5648012|15
+1114|Guadalupe River Relief Clothing Closet|Guadalupe River Relief|5546 New Braunfels Ave, San Antonio, TX, 78203|Clothing, Food Delivery, Nutrition Education|False|78203|29.4155442|-98.454343|15
+1115|Guadalupe River Relief Counseling Center|Guadalupe River Relief|6374 Blanco Rd, San Antonio, TX, 78207|Counseling|False|78207|29.4252155|-98.5276365|15
+1116|Guadalupe River Relief Food Assistance Fund|Guadalupe River Relief|13547 Bandera Rd, San Antonio, TX, 78218|Help Pay for Food, Transportation Assistance, Mental Healthcare|True|78218|29.4829066|-98.4252596|15
+1117|Guadalupe River Relief Nutrition Workshops|Guadalupe River Relief|1733 New Braunfels Ave, San Antonio, TX, 78228|Nutrition Education, Affordable Fresh Food|True|78228|29.451307|-98.5751169|15
+1118|Guadalupe River Relief Home Delivery Program|Guadalupe River Relief|12904 Military Dr W, San Antonio, TX, 78203|Food Delivery|False|78203|29.4218541|-98.4600033|15
